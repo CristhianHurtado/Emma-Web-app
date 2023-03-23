@@ -6,6 +6,6 @@ To log in, just fill the text fields with the values presented.
 
 Made along:
 
-• Loc pham - https://github.com/NoFun-z
-•Camilo Arcniegas - https://github.com/Caleargo
-•Alejandro Mendoza - https://github.com/Alemenger2
+• Loc pham - https://github.com/NoFun-z \n
+•Camilo Arcniegas - https://github.com/Caleargo \n
+•Alejandro Mendoza - https://github.com/Alemenger2 \n
